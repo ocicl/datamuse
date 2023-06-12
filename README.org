@@ -1,0 +1,10 @@
+* datamuse
+
+Common Lisp library for accessing the Datamuse word-finding API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/defaultxr/datamuse.git   |
+| commit  | de64fe7  |
+| systems | datamuse |
+|---------+-------------------------------------------|
+
