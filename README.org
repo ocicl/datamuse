@@ -4,6 +4,6 @@ Common Lisp library for accessing the Datamuse word-finding API
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/defaultxr/datamuse.git |
-| commit  | 72aa09c                                       |
+| commit  | 4551eab                                       |
 | systems | datamuse                                      |
 |---------+-----------------------------------------------|
